@@ -7,8 +7,9 @@
 # server process.
 
 # Basic Site Settings
+port: 4563
 locale: "en-US"
-title: "Nafisa Sabnam Shama"
+title: "Home"
 title_separator: "-"
 name: &name "Nafisa Sabnam Shama"
 description: &description "Software Developer "
